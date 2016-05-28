@@ -1,0 +1,6 @@
+.navigation-admin{position: relative;width: 100%;height: auto;}
+ul{list-style-type:none; margin:0; padding: 1.5%; overflow: hidden;background-color: #333;}
+li {float: right;width: 24%;}
+li a{display: block; color: white;text-align: center; padding: 10px 40px;letter-spacing: 0.05em;font-size: 20px;}
+
+
